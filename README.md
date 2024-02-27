@@ -14,3 +14,5 @@ The Amazon dataset contains the following attributes:
 * productId: Every product identified with a unique id
 * Rating: The rating of the corresponding product by the corresponding user
 * timestamp: Time of the rating. We will not use this column to solve the current problem
+
+Click on the link below to use the same dataset as me: https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=drive_link
